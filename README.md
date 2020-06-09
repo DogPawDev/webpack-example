@@ -1,5 +1,5 @@
 webpack을 활용한 방식
-
+로더를 사용하지 않는 방식
 
 
 1. webpack 설정파일 이름이 webpack.cofnig.js 일경우
@@ -15,4 +15,6 @@ npx webpack --config 설정파일 이름.js
 ```
 npm run dev-server 
 ```
+
+
 
