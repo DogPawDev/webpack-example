@@ -1,1 +1,5 @@
-webpack 공부 입니다
+#webpack 활용 이전 상태
+```
+npm run dev-server 
+```
+로 실행
