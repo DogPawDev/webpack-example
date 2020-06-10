@@ -1,6 +1,7 @@
 webpack을 활용한 방식
 css, style 로더를 사용한 방식
 복수의 output을 활용한 방식
+plugins를 활용한 방식 - html-webpack-plugin 사용
 
 1. webpack 설정파일 이름이 webpack.cofnig.js 일경우
 ```
